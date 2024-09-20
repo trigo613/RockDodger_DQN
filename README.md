@@ -1,14 +1,24 @@
-This project trains a DQN agent on visual input only to play a small game that we create at the begginig of the notebook
-and here are the results:
+# DQN Agent Trained to Play a Custom Game
 
-After 200 rounds:
+This project trains a Deep Q-Network (DQN) agent using visual input only to play a small custom game created at the beginning of the notebook.
 
-![output200 (1)](https://github.com/user-attachments/assets/0170e7fa-6b9f-4e9a-a4ab-5f80ae211e25)
+## Training Results
 
-After 400 rounds:
+The agent's progress is shown below after 200, 400, and 600 rounds of training.
 
-![output400](https://github.com/user-attachments/assets/601fd27f-5cc0-4e4c-9172-9808b777ae6e)
+<table>
+  <tr>
+    <td><h4>After 200 Rounds</h4></td>
+    <td><h4>After 400 Rounds</h4></td>
+    <td><h4>After 600 Rounds</h4></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/0170e7fa-6b9f-4e9a-a4ab-5f80ae211e25" alt="output200" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/601fd27f-5cc0-4e4c-9172-9808b777ae6e" alt="output400" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/246e1a64-800f-48f5-bec7-5dc8e56ba953" alt="output600" width="300"/></td>
+  </tr>
+</table>
 
-After 600 rounds:
+## How it Works
 
-![output600](https://github.com/user-attachments/assets/246e1a64-800f-48f5-bec7-5dc8e56ba953)
+The DQN agent is trained using a convolutional neural network (CNN) to process the visual input of the game environment. Over time, the agent learns to optimize its actions and improve its performance in the game.
