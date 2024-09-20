@@ -1,4 +1,5 @@
 This project trains a DQN agent on visual input only to play a small game that we create at the begginig of the notebook
+and here are the results:
 
 After 200 rounds:
 
