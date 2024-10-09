@@ -8,7 +8,10 @@ The agent's progress throughout the training process is shown in the video below
 
 ### Training Video
 
-[Watch the video](https://github.com/user-attachments/assets/29d54342-2b2c-442f-afe1-6fa3987ab9ea)
+[Watch the video](https://github.com/user-attachments/assets/84479d43-41ec-4fe4-8dfc-c298ac4ca5ca)
+
+
+
 
 > Click the link above to watch the training video.
 
